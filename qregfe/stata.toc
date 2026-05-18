@@ -2,4 +2,4 @@
 1
 2
 3
-p stquant Quantiles Estimation and Confidence Intervals for Survival Time Use stquant With STATA 19
+p qregfe Quantile regression with multiple fixed effects Use qregfe With STATA 19
