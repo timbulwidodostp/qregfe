@@ -1,6 +1,8 @@
 # qregfe
 Quantile regression with multiple fixed effects Use qregfe With STATA 19
 
+https://www.youtube.com/watch?v=M6wwr5veeeE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
